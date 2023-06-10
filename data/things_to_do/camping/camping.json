@@ -2,41 +2,42 @@
     {
         "name":"Jungle Camping in Narkanda",
         "description":"A little, lovely town called Narkanda offers stunning views of the snow-covered mountains.",
-        "image":"https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/v0gpq9tfdbu0u14x2qck85zncqws_166ec82e88bc11e889710283eb712168.jpg"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/narkanda.PNG?alt=media&token=78e6e5aa-3325-4953-88c9-c824033fc830"
     },
     {
         "name":"Solang Valley Camping",
         "description":"It is a beautiful and picturesque Camps at the top of the Kullu Manali valley in Himachal Pradesh, India.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang.PNG?alt=media&token=976e3cdb-fa43-4eb5-a3c8-6b326fecfe64"
     },
     {
         "name":"Moonlake Camping",
         "description":"Moonlake Camps, located at an altitude of 4300m, provides luxurious and comfortable accommodation to travelers and adventure junkies at the famous Chandratal Lake.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/moonlake.PNG?alt=media&token=d906fff7-c8f0-4a46-b7c4-da69e85e1785"
     },
     {
         "name":"Sethan Camping",
         "description":"Manali is famous for its various camping experiences that you can find spread all across the hill. And if you plan on going offbeat, then this campsite in the unexplored zone of Sethan in Manali is just perfect for you.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sethan.png?alt=media&token=1b8ede10-3c56-4ade-a751-66aa0371cd39"
     },
     {
         "name":"Living Stone Camp",
         "description":"Living Stone River Side Camping Bir:-Located in Bir in the Himachal Pradesh region, LivingStone Riverside Camping Bir provides accommodations with free private parking.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/living%20stone.PNG?alt=media&token=e9f44a13-01b0-44c9-b4f6-584490b9341f"
+
     },
     {
         "name":"Fogg Hill Camping",
         "description":"Top the arrangements done by Fogg-Hill Camping, whether it is your baggage support, bus support, trekking gear support or any local support.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/fogg%20hill.PNG?alt=media&token=d285ef76-90bd-4092-8181-8c83b9f3f930"
     },
     {
         "name":"CBB Camping Bir Billing",
         "description":"Providing city views, CBB - Camp Bir Billing in Bir provides accommodation, a garden,a shared lounge and a terrace.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/cbb%20bir.PNG?alt=media&token=a8f3fb6a-68e3-4309-b800-34d220a61e42"
     },
     {
         "name":"Camping Rakkar",
         "description":"Camp Rakkar is the first to introduce glamping at Dharamshala in the foothills of the Himalayas through its spacious swiss cottage tents and unorthodox settings.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/rakkar%20camp.PNG?alt=media&token=e7609704-316d-44ac-9bd9-298e3f96633f"
     }
 ]

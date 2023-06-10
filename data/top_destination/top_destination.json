@@ -1,1 +1,45 @@
-{}
+[
+    {
+        "name":"Shimla",
+        "description":"Shimla is the capital of Himachal Pradesh and a popular hill-station. The hill station still retains its old-world charm with beautiful colonial architecture, pedestrian-friendly Mall Road and the ridge lined up with multiple shops, cafes and restaurants.",
+        "image":""
+    },
+
+    {
+        "name":"Atal Tunnel",
+        "description":"Also referred to as the Rohtang Tunnel, Atal Tunnel is a horseshoe-shaped highway tunnel that connects Manali and the Lahaul-Spiti valley, reducing the time taken by around 4-5 hours.",
+        "image":""
+    
+    },
+    {
+        "name":"Kullu Manali",
+        "description":"With spectacular valleys, breathtaking views, snowcapped mountains, and lush forests of oak, deodar, and pine, Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh.",
+        "image":""
+    },
+    {
+        "name":"Dharamshala",
+        "description":"Dharamshala is a beautiful hill town in the Dhauladhar range of Himalayas. It is the winter capital of Himachal Pradesh and is located in the upper slopes of the Kangra valley.",
+        "image":""
+    },
+    {
+        "name":"Lahaul & Spiti",
+        "description":"Lahaul & Spiti District in Himachal is fringed by majestic Himalayan hills and it boasts mesmerizing cold barren lands of nothingness, pristine gurgling rivers, scenic alpine lakes, and a rich Buddhist culture and history.",
+        "image":""
+    },
+    {
+        "name":"Khajjiar,Chamba",
+        "description":"Often referred to as 'mini-Switzerland of India', Khajjiar is a small town located close (20km) to Dalhousie and is great for a day or overnight trip. Khajjiar is known for its picture perfect grassy meadows.",
+        "image":""
+
+    },
+    {
+        "name":"Dalhousie",
+        "description":"Dalhousie is a popular hill station spread out over five hills in Himachal Pradesh boasting views of the snow-capped peaks of the Dhauladhar ranges. Famous for its meadows, dense forests, and waterfalls.",
+        "image":""
+    },
+    {
+        "name":"Bir Billing",
+        "description":"Bir is a small town located in the Kangra district of Himachal Pradesh. Bir Billing is a popular destination located in Joginder Nagar valley known for paragliding and also as the town for meditation. There is an influence of Tibetan culture due to Tibetan community settlement in this town.",
+        "image":""
+    }
+]

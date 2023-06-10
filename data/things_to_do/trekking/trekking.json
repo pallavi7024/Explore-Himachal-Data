@@ -2,7 +2,7 @@
     {
         "name":"Churdhar Trek, Sirmaur",
         "description":"Churdhar Peak is located in the Sirmour district of Himachal Pradesh.The Churdhar Peak trek is the highest peak of outside Himalayan range with a modest elevation of 12,000 ft.",
-        "image":"https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/v0gpq9tfdbu0u14x2qck85zncqws_166ec82e88bc11e889710283eb712168.jpg"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/churdar.PNG?alt=media&token=63ed2eed-dd5a-4278-882c-53f4d2d54692"
     },
     {
         "name":"Indrahar Pass, Kangra",
@@ -17,29 +17,29 @@
     {
         "name":"Himani Chamunda",
         "description":"Aadi Himani Chamunda temple is a distance of approx 14 km from Dharamshala. It is located in Kangra district of Himachal Pradesh.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani.PNG?alt=media&token=91c7edcb-b982-427d-b202-ae41e823fb68"
     },
     {
         "name":"Hampta Pass,Kullu",
         "description":"About 35 kilometres are required for the entire Hampta pass hike. Manali-jobra-Jwara-Balu-ka-Ghera-Hampta pass-Shea Goru-Chatru-Manali is the trek's route. In 5 days, you'll finish the trek.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/hamptapasskullu.png?alt=media&token=9dbb6663-cec9-4954-b158-ef2cc79b2df2"
     },
     {
         "name":"Kheerganga,Kullu",
         "description":"The Kheerganga Trek is situated in Parvati Valley, covers a distance of 26 km. it is located in kullu Himachal pradesh.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheerganga.PNG?alt=media&token=f6f18a24-5cf5-465a-9688-e74e11ce690d"
         
     },
     {
         "name":"Saach Pass, Pangi,Chamba",
         "description":"The remote Sach Pass trip is located in Himachal Pradesh's Chamba region, in the Pir Panjal Mountains.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach-pass-trek1.jpg?alt=media&token=6a8bf572-42d3-4328-9d62-fdd1a111d4ab"
         
     },
     {
         "name":"Pin Parvati,Kullu",
         "description":"The crossing between Spiti's Pin Valley and Kullu's Parvati Valley bears the name Pin Parvati crossing.The 11-day, adventurous trek begins in Kullu and ends in Manali.",
-        "image":""
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati.PNG?alt=media&token=97b470a9-3f96-43c4-9aa2-838c2344d4b6"
         
     }
 
