@@ -3,5 +3,10 @@
         "name":"Jungle Camping in Narkanda",
         "description":"A little, lovely town called Narkanda offers stunning views of the snow-covered mountains.",
         "image":"https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,q_auto/v1/filestore/v0gpq9tfdbu0u14x2qck85zncqws_166ec82e88bc11e889710283eb712168.jpg"
+    },
+    {
+        "name":"Solang Valley Camping",
+        "description":"Some Description",
+        "image":""
     }
 ]
