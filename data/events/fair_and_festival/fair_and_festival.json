@@ -1,1 +1,37 @@
-{}
+[
+    {
+        "name":"Kullu Dussehra",
+        "description":"Kullu Dussehra is the renowned International Mega Dussehra festival observed in the month of October in Himachal Pradesh state in northern India.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kullu%20dussehra.jpg?alt=media&token=4670d2a7-7e50-4c7a-a1e5-4d22398f1cfc"
+    },
+    {
+        "name":"Dungri Fair Manali",
+        "description":"The Doongri Festival of Himachal Pradesh is also known as the Hadimba Devi Fair.This festival is majorly celebrated in mid-May to mark the beginning of the summer season.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/dungri%20fair%20Mnali%20hidimba.jpg?alt=media&token=64107b22-a69a-4f99-bdb6-ed6c104ad2a7"
+    },
+    {
+        "name":"Winter Carnival",
+        "description":"Manali winter carnival is a cultural festival celebrated to attract tourists and to Promote Tourism.It is Himachal Pradesh's way of welcoming the new year.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/winter%20carnival%20mnali.jpg?alt=media&token=11c904c2-9c63-4840-ac8e-b768f0e6ece4"
+    },
+    {
+        "name":"Halda Festival",
+        "description":"The Himachal Pradeshi people celebrate Halda in late December or early January as a way to say goodbye to the previous year and welcome the new one in Lahaul and Spiti.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/halda%20L%26S.jpg?alt=media&token=ffaa0e57-ec87-4138-b9ce-cc5a058051a9"
+    },
+    {
+        "name":"Phulaich Fair Kinnaur",
+        "description":"The Phulaich Fair is held every year in the state of Himachal Pradesh. It is held in the month of September in the Kinnaur district.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/phulaich%20fair%20Kinnaur.jpg?alt=media&token=dc34d404-271c-4448-ba19-cc1e9e7e8dab"
+    },
+    {
+        "name":"Mandi Shivratri",
+        "description":"Mandi Shivaratri Fair is an annual renowned international fair that is held for 7 days starting with the Hindu festival of Shivaratri, in the Mandi town.",
+        "image":""
+    },
+    {
+        "name":"Minjar Fair",
+        "description":"The Minjar Mela is held in the Chamba valley of Himachal Pradesh to mark the Raja of Chamba's victory against the king of Trigarta (now known as Kangra) in 935 AD.",
+        "image":""
+    }
+]

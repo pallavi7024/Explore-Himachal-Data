@@ -1,1 +1,32 @@
-{}
+[
+    {
+        "name":"Baijnath Temple",
+        "description":"Baijnath Temple is a Nagara style Hindu temple situated in a small town of Baijnath located in Kangra District, Himachal Pradesh.It is dedicated to Lord Shiva as Vaidyanath.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/Baijnath.PNG?alt=media&token=b6a4ceaf-ad4f-4df6-991c-b51323ee6313"
+    },
+    {
+        "name":"Bhootnath Temple",
+        "description":"Bhootnath Temple is a popular tourist destination located at the heart of Mandi in Himachal Pradesh.This temple was built in 1527 AD by Raja Ajber Sen.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bhootnath%20temple.png?alt=media&token=3a2c71a1-6d4c-4578-9fec-c38076306479"
+    },
+    {
+        "name":"Jakhu Temple Shimla",
+        "description":"Jakhu Temple (also Jakhoo Temple) is an ancient temple in Shimla, Himachal Pradesh, India, dedicated to the Hindu deity Lord Hanuman.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/jakhutemple.PNG?alt=media&token=5e1bd875-6cc3-411b-a080-5d58083bf15e"
+    },
+    {
+        "name":"Jatoli Mahadev",
+        "description":"Jatoli gets its name from the long Jata (hair) that Lord Shiva has. Considered as Asia's highest Shiv temple, this shrine is indeed an architectural marvel.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/jatolimhadev.jpeg?alt=media&token=0c7bf672-ceab-4399-b5da-c9ebe882d1a6"
+    },
+    {
+        "name":"Manikaran",
+        "description":"Manikaran is one of the popular pilgrimage towns in Himachal Pradesh that is tucked along the shimmering banks of river Parvati. It is famous for its hot springs.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/manikaran.png?alt=media&token=1508794b-6d67-47c6-a202-e0399cf56345"
+    },
+    {
+        "name":"Masroor Temple",
+        "description":"The Masrur Temples, also referred to as Masroor Temples or Rock-cut Temples at Masrur, is an early 8th-century complex of rock-cut Hindu temples in the Kangra Valley of Beas River in Himachal Pradesh, India.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/rocketemp.PNG?alt=media&token=c0e8b999-dc36-4282-b87c-e109655fdcab"
+    }
+]

@@ -6,7 +6,37 @@
     },
     {
         "name":"Solang Valley Camping",
-        "description":"Some Description",
+        "description":"It is a beautiful and picturesque Camps at the top of the Kullu Manali valley in Himachal Pradesh, India.",
+        "image":""
+    },
+    {
+        "name":"Moonlake Camping",
+        "description":"Moonlake Camps, located at an altitude of 4300m, provides luxurious and comfortable accommodation to travelers and adventure junkies at the famous Chandratal Lake.",
+        "image":""
+    },
+    {
+        "name":"Sethan Camping",
+        "description":"Manali is famous for its various camping experiences that you can find spread all across the hill. And if you plan on going offbeat, then this campsite in the unexplored zone of Sethan in Manali is just perfect for you.",
+        "image":""
+    },
+    {
+        "name":"Living Stone Camp",
+        "description":"Living Stone River Side Camping Bir:-Located in Bir in the Himachal Pradesh region, LivingStone Riverside Camping Bir provides accommodations with free private parking.",
+        "image":""
+    },
+    {
+        "name":"Fogg Hill Camping",
+        "description":"Top the arrangements done by Fogg-Hill Camping, whether it is your baggage support, bus support, trekking gear support or any local support.",
+        "image":""
+    },
+    {
+        "name":"CBB Camping Bir Billing",
+        "description":"Providing city views, CBB - Camp Bir Billing in Bir provides accommodation, a garden,a shared lounge and a terrace.",
+        "image":""
+    },
+    {
+        "name":"Camping Rakkar",
+        "description":"Camp Rakkar is the first to introduce glamping at Dharamshala in the foothills of the Himalayas through its spacious swiss cottage tents and unorthodox settings.",
         "image":""
     }
 ]

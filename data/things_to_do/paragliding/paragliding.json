@@ -1,1 +1,35 @@
-{}
+[
+    
+    {
+        "name":"Bir Billing",
+        "description":"It is a popular destination for adventurers from all over the world who flock here to glide above nature’s bounty at an altitude of 8200 ft.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir.jpg?alt=media&token=234fe5a3-7097-4179-8834-865e4360468a"
+    },
+    {
+        "name":"Indrunag",
+        "description":"Paraglide in the beautiful and clear blue sky of Dharamshala and witness the beauty of Shivalik Mountain ranges and many more that Dharamshala holds.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag.JPG?alt=media&token=4863cce3-efc1-4b72-966d-e31b6495dbf3"
+    },
+    {
+        "name":"Solang Valley",
+        "description":"Paragliding in Manali, Solang valley is one of the best parglding destination in India. Paragliding in Solang valley is one of the most exciting adventure sports in Manali.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang.JPG?alt=media&token=908db146-60ea-4418-ae8e-0b46b5ba6765"
+    },
+    {
+        "name":"Bandla Valley",
+        "description":"Bilaspur is a very good place for Paragliding.There is a big lake besides landing field that makes it a ideal place for doing paragliding.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bandla.jpg?alt=media&token=da0af9b6-cfc9-46dc-bd72-d1923fff9900"
+    },
+    {
+        "name":"Shivapuri Shimla",
+        "description":"In Shimla, paragliding only takes place in Shivpuri and 22 km away from Shimla at Waknaghat.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shimla%20(2).JPG?alt=media&token=7ef8f749-6bfa-4afe-a00d-d45019a22650"
+    },
+    {
+        "name":"Khajjiar Chamba",
+        "description":"Get mesmerized by the view of hills,  forest and mountain from high above in the adventure of paragliding.",
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar.JPG?alt=media&token=517eb6ba-0ae8-4955-9b8d-1775f7e2f47a"
+    }
+
+]
+    
