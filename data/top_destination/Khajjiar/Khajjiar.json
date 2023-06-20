@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Puri Hotel & Restaurant",
+        "rating":"3.5",
+        "location":"Near Khajji Naag Temple Main Road, Center Point of Ground, Khajjiar",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMQYnosxhubk3u3ArkgYi8SblILA358feT4xLgD=w296-h202-n-k-rw-no-v1",
+        "price":"1872"
+    },
+    {
+        "name":"Colors of Himalaya - Garg Woods Villa(LogHouse)",
+        "rating":"5.0",
+        "location":"Garg Woods Villa, Khajjiar",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNfcjscLjx7OciqmnzuIga2PSjt9SVxKB_Wov2A=w296-h202-n-k-rw-no-v1",
+        "price":"3360"
+    }
+]

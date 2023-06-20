@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Grand View Hotel",
+        "rating":"4.7",
+        "location":"Near Dalhousie Club, Moti Tiba, Dalhousie",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMUliXBmHFauSjneNQVIPRRtmBC56Awxj28FkEN=w296-h202-n-k-rw-no-v1",
+        "price":"2994"
+    },
+    {
+        "name":"Holiday Inn Dalhousie",
+        "rating":"4.4",
+        "location":"Bus Stand, Banikhet, near PNB, Dalhousie",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipP1wlw_1tw-DvZtLmxPKjAUN2shC9WxNSmVWTao=w296-h202-n-k-rw-no-v1",
+        "price":"2016"
+    }
+]

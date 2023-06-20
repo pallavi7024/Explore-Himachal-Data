@@ -1,0 +1,16 @@
+[
+    {
+        "name":"The Grand Welcome Hotel",
+        "rating":"4.6",
+        "location":"Shoghi Bypass, Beolia, Shimla",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipOsaU2pJ6tYkE2XwAPSEpORYuBnIPYzGsv2WoNy=w296-h202-n-k-rw-no-v1",
+        "price":"3201"
+    },
+    {
+        "name":"The Hosteller Shimla",
+        "rating":"4.5",
+        "location":"Hotel Mehman, The Hosteller, near Daizy Bank Estate, The Mall, Shimla",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNobGdnAHrqGDkAoMM62IspNY-aBQcskQTshm_H=w296-h202-n-k-rw-no-v1",
+        "price":"2187"
+    }
+]

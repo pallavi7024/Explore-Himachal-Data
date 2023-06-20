@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Hotel Ambika Bliss Manali",
+        "rating":"4.1",
+        "location":"Siyal Rd, Siyal, Manali",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNYmH8Fv3Hk3dtkDNiCNOo_zPMLF0JMwJ8B3cnB=w296-h202-n-k-rw-no-v1",
+        "price":"2045"
+    },
+    {
+        "name":"Hotel Solitaire Manali Near Mall Road",
+        "rating":"4.4",
+        "location":"Hadimba Temple Rd, Siyal, Manali",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMLqqaJGd6T1pAZMUQeruhn4tBMBApe5wpuuKTR=w296-h202-n-k-rw-no-v1",
+        "price":"2088"
+    }
+]
