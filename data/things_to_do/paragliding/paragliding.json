@@ -3,32 +3,69 @@
     {
         "name":"Bir Billing",
         "description":"It is a popular destination for adventurers from all over the world who flock here to glide above nature’s bounty at an altitude of 8200 ft.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir.jpg?alt=media&token=234fe5a3-7097-4179-8834-865e4360468a"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir.jpg?alt=media&token=234fe5a3-7097-4179-8834-865e4360468a",
+        "long_description":"Bir-Billing is a perfect place for paragliding in India and it is a world's second highest paragliding point.June are the best time for long flights. Paragliding experience during December, January is different as all the mountains around covered with snow.",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir1.jpg?alt=media&token=920f7f9a-6681-4cdf-ad83-37227edcde45",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir.jpg?alt=media&token=234fe5a3-7097-4179-8834-865e4360468a",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bir.jpg?alt=media&token=234fe5a3-7097-4179-8834-865e4360468a"
+        ]
+        
     },
     {
         "name":"Indrunag",
         "description":"Paraglide in the beautiful and clear blue sky of Dharamshala and witness the beauty of Shivalik Mountain ranges and many more that Dharamshala holds.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag.JPG?alt=media&token=4863cce3-efc1-4b72-966d-e31b6495dbf3"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag.JPG?alt=media&token=4863cce3-efc1-4b72-966d-e31b6495dbf3",
+        "long_description":"Indrunag paragliding located in dharamshala is the best site for flying like a bird in the sky and lets you enjoy the cold breeze, pine jungles, colorful hilly houses, and the beautiful tea garden.The best time to go paragliding in Indru Nag is between October and December when the sky is brighter and the weather is pleasant, ensuring the best possible experience.",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag1.jpg?alt=media&token=77b39582-1ac0-4e72-9ac3-9136fb1a3626",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag2.jpg?alt=media&token=3caacf55-5a63-4d1e-84f8-af7a2cffede1",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indrunag3.jpg?alt=media&token=71cc3187-cab0-40d3-9d5e-f125d31c0dd2"
+        ]
     },
     {
         "name":"Solang Valley",
         "description":"Paragliding in Manali, Solang valley is one of the best parglding destination in India. Paragliding in Solang valley is one of the most exciting adventure sports in Manali.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang.JPG?alt=media&token=908db146-60ea-4418-ae8e-0b46b5ba6765"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang.JPG?alt=media&token=908db146-60ea-4418-ae8e-0b46b5ba6765",
+        "long_description":"Solang valley is one of the best paragliding destination in India. Gliding in the midst of snow-capped peaks with the open blue sky above you and the mystical views of the valleys around is an experience that will not be forgotten easily. Best time for Paragliding in Solang Valley: April to December (Only on a clear sunny day)",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang1.jpg?alt=media&token=71421c0c-cc0c-4052-a13d-e01176ee0425",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang3.jpg?alt=media&token=338d8097-8098-41a3-89ef-8a4c261c832f",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/solang2.jpg?alt=media&token=15425c82-dbae-4e43-a376-108a89e0c438"
+        ]
     },
     {
         "name":"Bandla Valley",
         "description":"Bilaspur is a very good place for Paragliding.There is a big lake besides landing field that makes it a ideal place for doing paragliding.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bandla.jpg?alt=media&token=da0af9b6-cfc9-46dc-bd72-d1923fff9900"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/bandla.jpg?alt=media&token=da0af9b6-cfc9-46dc-bd72-d1923fff9900",
+        "long_description":"Para Gliding at bandla in Bilaspur District in Himachal is a premier experience and avenue of this recreational and adventurous aero sport.The best time to visit Bandla Dhar in Bilaspur is May-June and September-October.",
+        "images":[
+            "",
+            "",
+            ""
+        ]
     },
     {
         "name":"Shivapuri Shimla",
         "description":"In Shimla, paragliding only takes place in Shivpuri and 22 km away from Shimla at Waknaghat.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shimla%20(2).JPG?alt=media&token=7ef8f749-6bfa-4afe-a00d-d45019a22650"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shimla%20(2).JPG?alt=media&token=7ef8f749-6bfa-4afe-a00d-d45019a22650",
+        "long_description":"Once called the summer capital of British India, Shimla is blessed with sprawling green landscapes in summers.The best way to enjoy the scenic beauty is by paragliding in Shimla and indulging.The months of March to June in Shimla, have a clear sky and pleasant climate, making it the best time to visit the place for paragliding.",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shimla%20(2).JPG?alt=media&token=7ef8f749-6bfa-4afe-a00d-d45019a22650",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shima1.jpg?alt=media&token=67f56f67-a28b-44c3-969f-c80bc0a6db41",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/shimla3.jpg?alt=media&token=8c660097-96e5-4dde-acfb-04238bbda131"
+        ]
     },
     {
         "name":"Khajjiar Chamba",
         "description":"Get mesmerized by the view of hills,  forest and mountain from high above in the adventure of paragliding.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar.JPG?alt=media&token=517eb6ba-0ae8-4955-9b8d-1775f7e2f47a"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar.JPG?alt=media&token=517eb6ba-0ae8-4955-9b8d-1775f7e2f47a",
+        "long_description":"Paragliding in Khajjiar is certainly the most sought after adventure activity in Himachal,located inthe Chamba district of it acts as a perfect weekend getaway for touristsMarch – June, September, and November – December are the best months to plan a paragliding trip to Khajjiar.",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar.JPG?alt=media&token=517eb6ba-0ae8-4955-9b8d-1775f7e2f47a",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar1.jpg?alt=media&token=d8c06c34-e6c6-4868-b8f9-2b2ea589048d",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/khajjiar2.jpg?alt=media&token=4eeec924-6363-4f30-bf30-24e8975e1402"
+        ]
     }
 
 ]
