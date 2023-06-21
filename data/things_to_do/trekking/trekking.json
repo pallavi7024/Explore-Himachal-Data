@@ -2,44 +2,93 @@
     {
         "name":"Churdhar Trek, Sirmaur",
         "description":"Churdhar Peak is located in the Sirmour district of Himachal Pradesh.The Churdhar Peak trek is the highest peak of outside Himalayan range with a modest elevation of 12,000 ft.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/churdar.PNG?alt=media&token=63ed2eed-dd5a-4278-882c-53f4d2d54692"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/churdar.PNG?alt=media&token=63ed2eed-dd5a-4278-882c-53f4d2d54692",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/churdar2.jpg?alt=media&token=7d3d3998-0b1f-48d1-b261-20f77415c4c0",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/churdar.PNG?alt=media&token=63ed2eed-dd5a-4278-882c-53f4d2d54692",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/Churdhaar1.jpg?alt=media&token=14a10dc6-fa00-4fd0-882b-3c8a43153c5c"
+        ]
     },
     {
         "name":"Indrahar Pass, Kangra",
         "description":"Indrahar Pass trek is one of the easy to moderate treks in Himachal Pradesh which is started from McLeodganj himachal pradesh.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indarhar%20kangra.JPG?alt=media&token=dbec10bd-ebec-4aed-8757-84272c617feb"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/indarhar%20kangra.JPG?alt=media&token=dbec10bd-ebec-4aed-8757-84272c617feb",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/inderhaar1.JPG?alt=media&token=71c27fe5-8543-4562-a9b3-eab4db867f72",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/inderhar2.JPG?alt=media&token=f33d9ebe-5aa8-40d5-8741-4fce48719c72",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/inderhar3.JPG?alt=media&token=479d6bcf-62f5-4a0b-b6f0-1da18a29fe77"
+        ]
     },
     {
         "name":"Triund,Kangra",
         "description":"Triund trek is a about 9 kilometre hike that can be completed in 4-6 hours, making it possible to complete it in a single day,although the ideal way to complete it is to...",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triund%20kanga.JPG?alt=media&token=4858fe01-0432-46f7-a46a-267292208c58"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triund%20kanga.JPG?alt=media&token=4858fe01-0432-46f7-a46a-267292208c58",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triund%20kanga.JPG?alt=media&token=4858fe01-0432-46f7-a46a-267292208c58",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triyund1.JPG?alt=media&token=a2ef3490-98a7-4ab5-bf88-7f750b18bcbe",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triyund2.JPG?alt=media&token=67160023-f2f8-4898-bdc3-5bfc4ca9c1d3",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/triund3.JPG?alt=media&token=82a7eab0-bd77-4da9-a397-f2c5da427e7b"
+        ]
     },
     {
         "name":"Himani Chamunda",
         "description":"Aadi Himani Chamunda temple is a distance of approx 14 km from Dharamshala. It is located in Kangra district of Himachal Pradesh.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani.PNG?alt=media&token=91c7edcb-b982-427d-b202-ae41e823fb68"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani.PNG?alt=media&token=91c7edcb-b982-427d-b202-ae41e823fb68",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani%20chamunda%20(1).jpg?alt=media&token=17f921ac-1ef7-4e45-9111-115088bb7752",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani%20chamunda%20(2).jpg?alt=media&token=122de917-e1e2-4482-bf8b-608c9e7a2018",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani.PNG?alt=media&token=91c7edcb-b982-427d-b202-ae41e823fb68"
+        ]
     },
     {
         "name":"Hampta Pass,Kullu",
         "description":"About 35 kilometres are required for the entire Hampta pass hike. Manali-jobra-Jwara-Balu-ka-Ghera-Hampta pass-Shea Goru-Chatru-Manali is the trek's route. In 5 days, you'll finish the trek.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/hamptapasskullu.png?alt=media&token=9dbb6663-cec9-4954-b158-ef2cc79b2df2"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/hamptapasskullu.png?alt=media&token=9dbb6663-cec9-4954-b158-ef2cc79b2df2",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/hamptapasskullu.png?alt=media&token=9dbb6663-cec9-4954-b158-ef2cc79b2df2",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/hampta%20pass%20(1).jpg?alt=media&token=7e8b7d59-cc3b-4dcd-bcce-5d5831b40c39",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/himani%20chamunda%20(2).jpg?alt=media&token=122de917-e1e2-4482-bf8b-608c9e7a2018"
+        ]
     },
     {
         "name":"Kheerganga,Kullu",
         "description":"The Kheerganga Trek is situated in Parvati Valley, covers a distance of 26 km. it is located in kullu Himachal pradesh.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheerganga.PNG?alt=media&token=f6f18a24-5cf5-465a-9688-e74e11ce690d"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheerganga.PNG?alt=media&token=f6f18a24-5cf5-465a-9688-e74e11ce690d",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheer%20ganga%20(1).jpg?alt=media&token=a24741fe-b59b-437e-a9f2-8172e78fa77c",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheerganga.PNG?alt=media&token=f6f18a24-5cf5-465a-9688-e74e11ce690d",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/kheer%20ganga%20(2).jpg?alt=media&token=995bc2ac-680e-43aa-9c7f-b9b6299b394e"
+        ]
         
     },
     {
         "name":"Saach Pass, Pangi,Chamba",
         "description":"The remote Sach Pass trip is located in Himachal Pradesh's Chamba region, in the Pir Panjal Mountains.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach-pass-trek1.jpg?alt=media&token=6a8bf572-42d3-4328-9d62-fdd1a111d4ab"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach-pass-trek1.jpg?alt=media&token=6a8bf572-42d3-4328-9d62-fdd1a111d4ab",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach-pass-trek1.jpg?alt=media&token=6a8bf572-42d3-4328-9d62-fdd1a111d4ab",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach%20pass%20(1).jpg?alt=media&token=d09403a3-bb47-4cdb-aac7-12a60c2af7c8",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/sach%20pass%20(1).jpg?alt=media&token=d09403a3-bb47-4cdb-aac7-12a60c2af7c8"
+        ]
         
     },
     {
         "name":"Pin Parvati,Kullu",
         "description":"The crossing between Spiti's Pin Valley and Kullu's Parvati Valley bears the name Pin Parvati crossing.The 11-day, adventurous trek begins in Kullu and ends in Manali.",
-        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati.PNG?alt=media&token=97b470a9-3f96-43c4-9aa2-838c2344d4b6"
+        "image":"https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati.PNG?alt=media&token=97b470a9-3f96-43c4-9aa2-838c2344d4b6",
+        "long_description":"",
+        "images":[
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati%201.jpg?alt=media&token=04927a55-fc34-4b50-9d03-00bb0e242b8f",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati.PNG?alt=media&token=97b470a9-3f96-43c4-9aa2-838c2344d4b6",
+            "https://firebasestorage.googleapis.com/v0/b/my-application-f078f.appspot.com/o/pin%20parvati%202.jpg?alt=media&token=20ea2c1b-14ee-4b8b-b74a-432e3c93db1a"
+        ]
         
     }
 
